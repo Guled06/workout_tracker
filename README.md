@@ -11,3 +11,8 @@ When the user loads the page, they will be given the option to create a new work
 GitHub Link: https://github.com/Guled06/workout_tracker
 
 Heroku Link: https://glacial-springs-66096.herokuapp.com/?id=60237488203ada00154d237b
+
+# Screenshot of App:
+
+<img src="./docs/screenshotone.png" alt="Image showing the main page of the app">
+<img src="./docs/screenshottwo.png" alt="Image showing the second page of the app">
