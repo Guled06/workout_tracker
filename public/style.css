@@ -18,7 +18,7 @@ body {
 
 nav {
   background-color: #5793fd;
-  color: #ffffff;
+  color: #e8eb33;
   height: 80px;
   padding: 10px;
   line-height: 3;
@@ -46,6 +46,7 @@ header {
 
 header h1 {
   transform: skewX(-2deg);
+  color: yellow;
 }
 
 select {
@@ -100,7 +101,7 @@ input {
 }
 
 .wrapper {
-  background-color: #f2f8ff;
+  background-color: #974578;
   padding-bottom: 100px;
 }
 
