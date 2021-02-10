@@ -10,7 +10,7 @@ When the user loads the page, they will be given the option to create a new work
 
 GitHub Link: https://github.com/Guled06/workout_tracker
 
-Heroku Link: https://glacial-springs-66096.herokuapp.com/?id=60237488203ada00154d237b
+Heroku Link: https://the-best-workout-tracker.herokuapp.com/?id=60241b95f9859d0015ea4494
 
 # Screenshot of App:
 
